@@ -1,3 +1,4 @@
+<a href="http://info.flagcounter.com/T2RV"><img src="http://s09.flagcounter.com/count2/T2RV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_GFWList/labels_1/pageviews_1/flags_0/percent_0/" border="0"></a>
 # gfwlist
 ## The OFFICIAL gfwlist here!
 
@@ -11,7 +12,7 @@ TL;DR: This list embraces websites which Chinese authorities and some service pr
 
 ---
 
-## In case you want to request anonymity, you can send report to us directly, please visit [this profile](https://github.com/gfwlist) to retrieve the email address.
+## In case you want to request anonymity, you can send report to us directly, please visit [this profile](https://github.com/cicku) to retrieve the email address.
 
 WARNING:
 
